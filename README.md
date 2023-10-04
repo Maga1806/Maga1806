@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning HTML, CSS, programming and german
 - 🤔 I’m looking for help with practicing my german
 - 📫 How to reach me: Magali Avendaño
-- ⚡ Fun fact: Love playing basketball 
+- ⚡ Fun fact: Love playing basketball and videogames
 
 
 ## Some technologies I use: 
