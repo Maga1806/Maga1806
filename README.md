@@ -13,7 +13,7 @@
 
 <!--https://github.com/alexandresanlim/Badges4-README.md-Profile -->
 
-
+<!--
 # Markdown
 
 # Encabezado 1
@@ -46,5 +46,5 @@ print('Hola, mundo!')
 
 El markdown lo aprendí en [Tecnolochicas](https://tecnolochicas.mx/)
 
-
+-->
 
